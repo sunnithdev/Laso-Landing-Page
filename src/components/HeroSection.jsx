@@ -50,25 +50,35 @@ const HeroSection = () => {
             {/* USA Flag */}
             <Box position="absolute" margin="-20px" backgroundColor="white" border={`2px solid rgba(0, 0, 0, 0.8)`} borderRadius="50%" padding="8px" top="0" left="50%" transform="translateX(-50%)">
             <Text fontSize="2xl" fontWeight="bold" lineHeight="shorter">
-            🏳️‍🌈
+            🇺🇸
             </Text>
             </Box>
             {/* Canada Flag */}
             <Box position="absolute" margin="-20px" border={`2px solid rgba(0, 0, 0, 0.8)`} backgroundColor="white" borderRadius="50%"  padding="8px" top="50%" right="0" transform="translateY(-50%)">
             <Text fontSize="2xl" fontWeight="bold" lineHeight="shorter">
-            🏳️‍🌈
+            🇨🇦
             </Text>
             </Box>
             {/* France Flag */}
             <Box position="absolute" margin="-20px" border={`2px solid rgba(0, 0, 0, 0.8)`} backgroundColor="white" borderRadius="50%" padding="8px" bottom="0" left="50%" transform="translateX(-50%)">
             <Text fontSize="2xl" fontWeight="bold" lineHeight="shorter">
-            🏳️‍🌈
+            🇫🇷
             </Text>
             </Box>
             {/* Germany Flag */}
             <Box position="absolute" margin="-20px" border={`2px solid rgba(0, 0, 0, 0.8)`} backgroundColor="white" borderRadius="50%" padding="8px" top="50%" left="0" transform="translateY(-50%)">
             <Text fontSize="2xl" fontWeight="bold" lineHeight="shorter">
-            🏳️‍🌈
+            🇩🇪
+            </Text>
+            </Box>
+            <Box position="absolute" margin="-20px" border={`2px solid rgba(0, 0, 0, 0.8)`} backgroundColor="white" borderRadius="50%" padding="8px" top="50%" left="0" transform="translateY(-50%)">
+            <Text fontSize="2xl" fontWeight="bold" lineHeight="shorter">
+            🇮🇳
+            </Text>
+            </Box>
+            <Box position="absolute" margin="-20px" border={`2px solid rgba(0, 0, 0, 0.8)`} backgroundColor="white" borderRadius="50%" padding="8px" top="50%" left="0" transform="translateY(-50%)">
+            <Text fontSize="2xl" fontWeight="bold" lineHeight="shorter">
+            🇲🇽
             </Text>
             </Box>
             {/* Add more flags as needed */}
