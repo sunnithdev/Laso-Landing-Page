@@ -27,7 +27,7 @@ const HeroSection = () => {
         <Text fontSize="sm" color="gray.600" mt={4}>
           Unlock the world of cross-language communication <br /> with our real-time translation application.
         </Text>
-        <Button size="md" mt={6} colorScheme="blue" onClick={() => window.location.href = 'https://laso-frontend.vercel.app/'}>
+        <Button size="md" mt={6} colorScheme="blue" onClick={() => window.location.href = 'https://laso-app.vercel.app/'}>
           Try Using Web Application
         </Button>
       </Box>
